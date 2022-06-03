@@ -1,2 +1,2 @@
-# Django Ecommerce Generico
+# Django E-commerce Generico
 * Em andamento
